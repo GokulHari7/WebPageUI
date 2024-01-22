@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -39,13 +40,14 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  font_awesome_flutter: ^10.6.0
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -63,6 +65,20 @@ flutter:
       - assets/images/webimage.png
       - assets/images/TextfieldBGI.jpg
       - assets/images/INFINITY_INTELLIGENCE_gridimg.jpg
+      - assets/images/A_Nay_Nee_Khae_gridimg.jpg
+      - assets/images/December_Love_gridimg.jpg
+      - assets/images/dwi_ha_ba_gridimg.jpg
+      - assets/images/Maung_Bar_Phyit_Chin_Lal_gridimg.jpg
+      - assets/images/Sayar_Ma_Lay_img.jpg
+      - assets/images/Saung_cho_gridimg.png
+      - assets/images/Myat_Wun_-_Kha_Chorus_gridimg.jpg
+      - assets/images/chill.png
+      - assets/images/unwell.png
+      - assets/images/sleep.png
+      - assets/images/meeting.png
+      - assets/images/gym.png
+      - assets/images/driving.png
+      - assets/images/bottom_image.png
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
